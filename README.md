@@ -23,8 +23,8 @@ The main components used to enable this collaboration are:
 
 ## Why work this way ?
 
-Ideologically: One of the main focuses of the Design Psychology module has been: psychology is about nuance, conversation, open questions and multiplicity of voices. We researched different topics in smaller groups and are learning about the topic from one another. Collaboration and sharing is a key component of this.
+**Ideologically** One of the main focuses of the Design Psychology module has been: psychology is about nuance, conversation, open questions and multiplicity of voices. We researched different topics in smaller groups and are learning about the topic from one another. Collaboration and sharing is a key component of this.
 
-Practically: Coordinating the collaborative build up of web-content for this project could have been done using git. However, not everybody in the group is 100% comfortable with commiting, staging, pulling and pushing to git. Even in experienced groups, when 15 people collaborate on one single repository, there can be some issues. This etherpad to html system allows freedom for each group to present their work whichever way they choose, while being able to view other groups work simultaneously.
+**Practically** Coordinating the collaborative build up of web-content for this project could have been done using git. However, not everybody in the group is 100% comfortable with commiting, staging, pulling and pushing to git. Even in experienced groups, when 15 people collaborate on one single repository, there can be some issues. This etherpad to html system allows freedom for each group to present their work whichever way they choose, while being able to view other groups work simultaneously.
 
-Sources: this method is heavily inspired by the [ether2html toolkit](http://osp.kitchen/tools/ether2html/) made by [OSP](osp.kitchen). The pagedJS and Markdown elements of the original toolkit were not necessary for this project, so they were removed. Thanks OSP! 
+**Sources** this method is heavily inspired by the [ether2html toolkit](http://osp.kitchen/tools/ether2html/) made by [OSP](https://osp.kitchen). The pagedJS and Markdown elements of the original toolkit were not necessary for this project, so they were removed. Thanks OSP! 
