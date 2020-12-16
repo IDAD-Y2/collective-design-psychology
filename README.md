@@ -30,3 +30,5 @@ The main components used to enable this collaboration are:
 **Sources** this method is heavily inspired by the [ether2html toolkit](http://osp.kitchen/tools/ether2html/) made by [OSP](https://osp.kitchen). The pagedJS and Markdown elements of the original toolkit were not necessary for this project, so they were removed. Thanks OSP! 
 
 git test from windoze
+
+a Wednesday test from Windows
