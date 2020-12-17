@@ -12,14 +12,12 @@
         $(document).ready(function(){
             $("#css-content").load($("#css-content").attr("data-css"));
             $("#pad-content").load($("#pad-content").attr("data-html"));
-            $("#icon").click(function(){$("#link").toggle();});
         });
-        function openNav() {
-            document.getElementById("nav").style.width = "250px";
-        }
-        function closeNav() {
-            document.getElementById("nav").style.width = "0";
-        }
+
+        $("#menu-burger").toggle(
+            function(){$("nav").css({"width": "0"});},
+            function(){$("nav").css({"widht": "200px"});},
+        );
     </script>
 
 </head>
