@@ -36,15 +36,15 @@ a Wednesday test from Windows
 ## Links
 
 **Homepage**
-the repository: https://github.com/IDAD/collective-design-psychology (clone from that link)
-the CSS: https://annuel.framapad.org/p/design-psy-css
-the homepage content: https://annuel.framapad.org/p/IDAD-Design-Psychology-Research-Assignment-index
+* the repository: https://github.com/IDAD/collective-design-psychology (clone from that link)
+* the CSS: https://annuel.framapad.org/p/design-psy-css
+* the homepage content: https://annuel.framapad.org/p/IDAD-Design-Psychology-Research-Assignment-index
 
 **Project pages**
-Dark Patterns - https://annuel.framapad.org/p/IDAD-Design-Psychology-Dark-Patterns
-Gamification - https://annuel.framapad.org/p/IDAD-Design-Psychology-Gamification
-Cognitive Bias in Design - https://annuel.framapad.org/p/IDAD-Design-Psychology-Cognitive-Bias
-Rights and wrongs of online activity— https://annuel.framapad.org/p/IDAD-Design-Psychology-Rights-Wrongs
-Digital privacy - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Privacy
-Solutionism - https://annuel.framapad.org/p/IDAD-Design-Psychology-Solutionism
-Digital Accessibility - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Accessibility
+* Dark Patterns - https://annuel.framapad.org/p/IDAD-Design-Psychology-Dark-Patterns
+* Gamification - https://annuel.framapad.org/p/IDAD-Design-Psychology-Gamification
+* Cognitive Bias in Design - https://annuel.framapad.org/p/IDAD-Design-Psychology-Cognitive-Bias
+* Rights and wrongs of online activity— https://annuel.framapad.org/p/IDAD-Design-Psychology-Rights-Wrongs
+* Digital privacy - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Privacy
+* Solutionism - https://annuel.framapad.org/p/IDAD-Design-Psychology-Solutionism
+* Digital Accessibility - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Accessibility
