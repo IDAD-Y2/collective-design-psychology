@@ -36,9 +36,8 @@ a Wednesday test from Windows
 ## Links
 
 **Homepage**
-* the repository: https://github.com/IDAD/collective-design-psychology (clone from that link)
-* the CSS: https://annuel.framapad.org/p/design-psy-css
-* the homepage content: https://annuel.framapad.org/p/IDAD-Design-Psychology-Research-Assignment-index
+* Main content: https://annuel.framapad.org/p/IDAD-Design-Psychology-Research-Assignment-index
+* Homepage CSS: https://annuel.framapad.org/p/design-psy-css
 
 **Project pages**
 * Dark Patterns - https://annuel.framapad.org/p/IDAD-Design-Psychology-Dark-Patterns
