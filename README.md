@@ -32,3 +32,18 @@ The main components used to enable this collaboration are:
 git test from Windows on Tuesday
 
 a Wednesday test from Windows
+
+## Links
+
+**Homepage**
+* Main content: https://annuel.framapad.org/p/IDAD-Design-Psychology-Research-Assignment-index
+* Homepage CSS: https://annuel.framapad.org/p/design-psy-css
+
+**Project pages**
+* Dark Patterns - https://annuel.framapad.org/p/IDAD-Design-Psychology-Dark-Patterns
+* Gamification - https://annuel.framapad.org/p/IDAD-Design-Psychology-Gamification
+* Cognitive Bias in Design - https://annuel.framapad.org/p/IDAD-Design-Psychology-Cognitive-Bias
+* Rights and wrongs of online activity— https://annuel.framapad.org/p/IDAD-Design-Psychology-Rights-Wrongs
+* Digital privacy - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Privacy
+* Solutionism - https://annuel.framapad.org/p/IDAD-Design-Psychology-Solutionism
+* Digital Accessibility - https://annuel.framapad.org/p/IDAD-Design-Psychology-Digital-Accessibility
